@@ -17,6 +17,14 @@ I have used React, Chakra, JS, Html, Css to made this project.
 ⋅Admin Page 
 <hr>
 
+# <span style="color:red"> Setup: </span>
+# <span style="color:red"> Tech Stack Used: </span>
+⋅ npm i
+
+
+⋅ npm run dev / npm start
+
+
 # Yashav Shukla
 
 - ## <span style="color:green"> Thank You </span>
