@@ -25,6 +25,8 @@ I have used React, Chakra, JS, Html, Css to made this project.
 ⋅ npm run dev / npm start
 
 
+⋅ and thisis run in localhost:5173 or localhost:3000
+
 # Yashav Shukla
 
 - ## <span style="color:green"> Thank You </span>
